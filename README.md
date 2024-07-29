@@ -64,7 +64,7 @@ mvn clean package
 After building the project, you can start the application using the following command:
 
 ```sh
-java -jar target/cluster-node-zookeeper-1.0-SNAPSHOT.jar
+java -jar target/hazelcast-assignment-1.0-SNAPSHOT.jar
 ```
 
 Note: The `pom.xml` is configured to specify the main class, so you don't need to provide it as a command-line argument when running the jar file.
