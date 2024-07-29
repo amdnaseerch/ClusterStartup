@@ -56,7 +56,7 @@ cd ClusterStartup/hazelcast-assignment
 Use Maven to build the project. In the project root directory, run:
 
 ```sh
-mvn clean install
+mvn clean package
 ```
 
 ### Run the Application
